@@ -163,6 +163,24 @@ console.log( accumulator() );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/incr/covariance`][@stdlib/stats/incr/covariance]: compute an unbiased sample covariance incrementally.
+-   [`@stdlib/stats/incr/mpcorr`][@stdlib/stats/incr/mpcorr]: compute a moving sample Pearson product-moment correlation coefficient incrementally.
+-   [`@stdlib/stats/incr/mvariance`][@stdlib/stats/incr/mvariance]: compute a moving unbiased sample variance incrementally.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -219,6 +237,16 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-incr-mcovariance/main/LICENSE
 
 [covariance]: https://en.wikipedia.org/wiki/Covariance
+
+<!-- <related-links> -->
+
+[@stdlib/stats/incr/covariance]: https://github.com/stdlib-js/stats-incr-covariance
+
+[@stdlib/stats/incr/mpcorr]: https://github.com/stdlib-js/stats-incr-mpcorr
+
+[@stdlib/stats/incr/mvariance]: https://github.com/stdlib-js/stats-incr-mvariance
+
+<!-- </related-links> -->
 
 </section>
 
