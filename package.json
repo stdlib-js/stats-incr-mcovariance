@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-incr-mcovariance",
-  "version": "0.0.6",
+  "version": "0.0.0",
   "description": "Compute a moving unbiased sample covariance incrementally.",
   "license": "Apache-2.0",
   "author": {
