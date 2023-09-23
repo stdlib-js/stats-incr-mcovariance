@@ -80,7 +80,7 @@ For known population means, the [unbiased sample covariance][covariance] for a w
 ## Usage
 
 ```javascript
-import incrmcovariance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mcovariance@deno/mod.js';
+import incrmcovariance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mcovariance@v0.1.0-deno/mod.js';
 ```
 
 #### incrmcovariance( window\[, mx, my] )
@@ -151,7 +151,7 @@ v = accumulator();
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import incrmcovariance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mcovariance@deno/mod.js';
+import incrmcovariance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mcovariance@v0.1.0-deno/mod.js';
 
 var accumulator;
 var x;
