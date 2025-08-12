@@ -67,7 +67,7 @@ For known population means, the [unbiased sample covariance][covariance] for a w
     <br>
 </div> -->
 
-<!-- </equation> --> 
+<!-- </equation> -->
 
 </section>
 
